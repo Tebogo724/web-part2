@@ -102,6 +102,28 @@ Convergine, [blog] 18 September. Available at:
 •	W3 schools, 2026. HTML Introduction.
             [online] Available at:
 <Introduction to HTML> [Accessed 13 August 2026].
+###Changelog
+##Part 1 edits
+The goals and objectives were updated to website goals and objectives instead of the business goals and objectives.
+The techincal requirements were updated 
+Timeline and milestones were broken down even further and organised into Plan, Start and Finalise.
+##Part 2 edits
+the color theme of the website is grey, black and white
+added website fonts for headings, subheadings and body
+changed positioning of navigation
+added color to the top part.
+added the business history and vision and mission into columns
+in the contact page added a hover over the email and socials media pages.
+the main picture in the contact  page has been spread across the page on top with the information moved to the center 
+underneath it.
+properties both rentals and houses are in cards with shadow elements on apartments
+added responsive images to the property pictures
+the website layout is design to fit well into desktop, tablet and phone setting.
+##Home 
+added a picture under the navigation
+##Sitemap
+<img width="241" height="224" alt="image" src="https://github.com/user-attachments/assets/0a103321-85a6-4671-b554-c43d8e7a5670" />
+
 
 
 
