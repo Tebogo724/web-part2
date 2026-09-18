@@ -123,6 +123,19 @@ the website layout is design to fit well into desktop, tablet and phone setting.
 added a picture under the navigation
 ##Sitemap
 <img width="241" height="224" alt="image" src="https://github.com/user-attachments/assets/0a103321-85a6-4671-b554-c43d8e7a5670" />
+##Screenshots
+<img width="1152" height="2010" alt="proof_6" src="https://github.com/user-attachments/assets/6365d97e-4e4f-4af3-ae94-a221268123df" />
+<img width="1152" height="2031" alt="proof_5" src="https://github.com/user-attachments/assets/ab05835f-a772-402f-a977-8a3b4010c701" />
+<img width="1620" height="1621" alt="proof_4" src="https://github.com/user-attachments/assets/ac27fd94-bd49-418f-ac98-bd59a35f2daf" />
+<img width="1548" height="2078" alt="proof_3" src="https://github.com/user-attachments/assets/1e372948-bb00-4ee1-8a4d-a3a4e919a3cc" />
+<img width="590" height="3696" alt="proof_2" src="https://github.com/user-attachments/assets/8857f043-9203-4815-90f9-24db00cab434" />
+![Uploading proof.jpeg…]()
+
+
+
+
+
+
 
 
 
